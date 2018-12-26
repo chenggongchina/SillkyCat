@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: dc9f2b3d1160c8242ba41e517470f816
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cu_cat_head
+    100002: cu_cat_hips
+    100004: cu_cat_jaw
+    100006: cu_cat_L_arm
+    100008: cu_cat_L_ear
+    100010: cu_cat_L_eye_down
+    100012: cu_cat_L_eye_up
+    100014: cu_cat_L_finger
+    100016: cu_cat_L_finger_end
+    100018: cu_cat_L_foot
+    100020: cu_cat_L_forearm
+    100022: cu_cat_L_hand
+    100024: cu_cat_L_knee
+    100026: cu_cat_L_leg
+    100028: cu_cat_L_shin
+    100030: cu_cat_L_shoulder
+    100032: cu_cat_L_toe
+    100034: cu_cat_L_toe_end
+    100036: cu_cat_neck0
+    100038: cu_cat_neck1
+    100040: cu_cat_R_arm
+    100042: cu_cat_R_ear
+    100044: cu_cat_R_eye_down
+    100046: cu_cat_R_eye_up
+    100048: cu_cat_R_finger
+    100050: cu_cat_R_finger_end
+    100052: cu_cat_R_foot
+    100054: cu_cat_R_forearm
+    100056: cu_cat_R_hand
+    100058: cu_cat_R_knee
+    100060: cu_cat_R_leg
+    100062: cu_cat_R_shin
+    100064: cu_cat_R_shoulder
+    100066: cu_cat_R_toe
+    100068: cu_cat_R_toe_end
+    100070: cu_cat_spine
+    100072: cu_cat_spine1
+    100074: cu_cat_spine2
+    100076: //RootNode
+    100078: cu_cat_standear_mesh
+    100080: cu_cat_tail0
+    100082: cu_cat_tail1
+    100084: cu_cat_tail2
+    100086: cu_cat_tail3
+    100088: cu_cat_tongue
+    100090: cu_cat_tongue1
+    100092: cu_cat_transform7
+    100094: cu_cat_transform8
+    100096: cu_cat_mesh
+    400000: cu_cat_head
+    400002: cu_cat_hips
+    400004: cu_cat_jaw
+    400006: cu_cat_L_arm
+    400008: cu_cat_L_ear
+    400010: cu_cat_L_eye_down
+    400012: cu_cat_L_eye_up
+    400014: cu_cat_L_finger
+    400016: cu_cat_L_finger_end
+    400018: cu_cat_L_foot
+    400020: cu_cat_L_forearm
+    400022: cu_cat_L_hand
+    400024: cu_cat_L_knee
+    400026: cu_cat_L_leg
+    400028: cu_cat_L_shin
+    400030: cu_cat_L_shoulder
+    400032: cu_cat_L_toe
+    400034: cu_cat_L_toe_end
+    400036: cu_cat_neck0
+    400038: cu_cat_neck1
+    400040: cu_cat_R_arm
+    400042: cu_cat_R_ear
+    400044: cu_cat_R_eye_down
+    400046: cu_cat_R_eye_up
+    400048: cu_cat_R_finger
+    400050: cu_cat_R_finger_end
+    400052: cu_cat_R_foot
+    400054: cu_cat_R_forearm
+    400056: cu_cat_R_hand
+    400058: cu_cat_R_knee
+    400060: cu_cat_R_leg
+    400062: cu_cat_R_shin
+    400064: cu_cat_R_shoulder
+    400066: cu_cat_R_toe
+    400068: cu_cat_R_toe_end
+    400070: cu_cat_spine
+    400072: cu_cat_spine1
+    400074: cu_cat_spine2
+    400076: //RootNode
+    400078: cu_cat_standear_mesh
+    400080: cu_cat_tail0
+    400082: cu_cat_tail1
+    400084: cu_cat_tail2
+    400086: cu_cat_tail3
+    400088: cu_cat_tongue
+    400090: cu_cat_tongue1
+    400092: cu_cat_transform7
+    400094: cu_cat_transform8
+    400096: cu_cat_mesh
+    4300000: cu_cat_standear_mesh
+    4300002: cu_cat_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: cu_cat_standear_mesh
+    13700002: cu_cat_mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
